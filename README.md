@@ -1,6 +1,8 @@
 ## Module 1 Challenge Submission
 
-![blockchain-sending-transaction](Images/challenge-image-1.png)
+![blockchain-example](Images/challenge-image-1.png)
+
+![blockchain-validation](Images/challenge-image-2.png)
 
 ### What is submitted
 
